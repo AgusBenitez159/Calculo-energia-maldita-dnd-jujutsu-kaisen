@@ -10,4 +10,6 @@ nivel = float(input("Ingrese su nivel: "))
 em=((nivel+nivel/2)*2+carisma*2+competencia*2)*2
 
 
+
+
 print (f"Su energia maldita es: {em}")
